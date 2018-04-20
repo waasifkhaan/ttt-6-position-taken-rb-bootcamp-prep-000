@@ -4,6 +4,6 @@ if board[index]==[" "]||[""]||[nil]
 false
 elsif board[index]==["X"]||["O"]
 true
-else 
+else
 end
 end
