@@ -5,6 +5,7 @@ false
   elsif board[index]=["X"]||["O"]
 true
 else
+
   end
 
 end
