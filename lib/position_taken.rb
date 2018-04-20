@@ -4,8 +4,4 @@ board[index]==[" "]||[""]||[nil]
 false
 board[index]==["X"]||["O"]
 true
-
-
-end
-
 end
